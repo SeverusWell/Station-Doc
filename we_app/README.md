@@ -10,11 +10,11 @@
 
 >  在微信中可长按图片扫描二维码
 
-![gh_69cc2f6da761_258](https://tva1.sinaimg.cn/large/006y8mN6ly1g927uyvw95j3076076gmk.jpg)
+![小程序二维码](https://tva1.sinaimg.cn/large/006y8mN6ly1g927uyvw95j3076076gmk.jpg)
 
 #### 微信搜索 `智能基站管理系统`
 
-![image-20191118154301790](https://tva1.sinaimg.cn/large/006y8mN6ly1g928kbokovj308n0f2jve.jpg)
+![微信搜索 `智能基站管理系统`](https://tva1.sinaimg.cn/large/006y8mN6ly1g928kbokovj308n0f2jve.jpg)
 
 #### 微信公众号入口
 
@@ -24,7 +24,7 @@
 
 
 
-![image-20191118154442796](https://tva1.sinaimg.cn/large/006y8mN6ly1g928m3c3tij308q0f8dge.jpg)
+![微信公众号入口](https://tva1.sinaimg.cn/large/006y8mN6ly1g928m3c3tij308q0f8dge.jpg)
 
 #### 微信分享(推荐)
 
@@ -34,7 +34,7 @@
 
 
 
-![image-20191118155038069](https://tva1.sinaimg.cn/large/006y8mN6ly1g928s9chtej308p0f7gou.jpg)
+![微信分享](https://tva1.sinaimg.cn/large/006y8mN6ly1g928s9chtej308p0f7gou.jpg)
 
 
 
@@ -46,7 +46,7 @@
 微信聊天界面下拉打开小程序页面,长按 `基站` 按钮拖动到我的小程序即可添加到我的小程序.
 ```
 
-![QQ20191118-162342](https://tva1.sinaimg.cn/large/006y8mN6ly1g929s0pl4hg306b0bnu12.gif)
+![添加到我的小程序](https://tva1.sinaimg.cn/large/006y8mN6ly1g929s0pl4hg306b0bnu12.gif)
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-![image-20191118164612237](https://tva1.sinaimg.cn/large/006y8mN6ly1g92ae20611j30bs0k977g.jpg)
+![添加到系统桌面 (仅限安卓系统)](https://tva1.sinaimg.cn/large/006y8mN6ly1g92ae20611j30bs0k977g.jpg)
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-![QQ20191118-161426](https://tva1.sinaimg.cn/large/006y8mN6ly1g929hh2g2kg306b0bn7wj.gif)
+![任务栏 最近使用](https://tva1.sinaimg.cn/large/006y8mN6ly1g929hh2g2kg306b0bn7wj.gif)
 
 
 
@@ -84,7 +84,7 @@
 
 
 
-![11](https://tva1.sinaimg.cn/large/006y8mN6ly1g92alkl9adg306b0bn7wp.gif)
+![直接分享小程序](https://tva1.sinaimg.cn/large/006y8mN6ly1g92alkl9adg306b0bn7wp.gif)
 
 #### 分享基站给朋友
 
@@ -95,4 +95,4 @@
 
 
 
-![22](https://tva1.sinaimg.cn/large/006y8mN6ly1g92aphx8blg306b0bn1l6.gif)
+![分享基站给朋友](https://tva1.sinaimg.cn/large/006y8mN6ly1g92aphx8blg306b0bn1l6.gif)
