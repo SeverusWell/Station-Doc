@@ -30,7 +30,7 @@
 
 ### 查看供电线路图
 
-![查看供电线路图](/Users/severus/Library/Application Support/typora-user-images/image-20191203104027841.png)
+![查看供电线路图](https://tva1.sinaimg.cn/large/006tNbRwly1g9jcmnd95ij30d60odwmd.jpg)
 
 ### 查看电表照片/上传电表照片
 
