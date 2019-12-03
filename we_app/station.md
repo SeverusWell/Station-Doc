@@ -39,3 +39,22 @@
 ![查看电表照片:上传电表照片](https://tva1.sinaimg.cn/large/006tNbRwly1g9jc3mx66dg306b0bn7x0.gif)
 
 ### 修改电表信息
+
+![修改电表信息](https://tva1.sinaimg.cn/large/006tNbRwly1g9jgxmbevcg306a0bnu1o.gif)
+
+### 添加电表
+
+![添加电表](https://tva1.sinaimg.cn/large/006tNbRwly1g9jgzalfytg306a0bnqvn.gif)
+
+### 从基站进行查表
+
+![从基站进行查表](https://tva1.sinaimg.cn/large/006tNbRwly1g9jh0pcr8ng306a0bnb2t.gif)
+
+### 从电表进行查表
+
+![从电表进行查表](https://tva1.sinaimg.cn/large/006tNbRwly1g9jh1jlqx0g306a0bnu18.gif)
+
+### 基站位置修正
+
+![基站位置修正](https://tva1.sinaimg.cn/large/006tNbRwly1g9jh25dfg2g306a0bnqvd.gif)
+
