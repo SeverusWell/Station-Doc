@@ -14,6 +14,6 @@
 
 
 
-## 基站后台管理系统 [链接](https://api.xinyilin10.com)
+## 基站后台管理系统 电脑打开链接 : https://api.xinyilin10.com 
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhch7mvdj313z0m4tcj.jpg)
