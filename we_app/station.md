@@ -58,3 +58,26 @@
 
 ![基站位置修正](https://tva1.sinaimg.cn/large/006tNbRwly1g9jh25dfg2g306a0bnqvd.gif)
 
+### 隐藏基站(展示重叠基站)
+
+![隐藏基站](https://tva1.sinaimg.cn/large/006tNbRwly1g9jh7dsq8eg306a0bnb2b.gif)
+
+
+
+### 分享基站
+
+```
+点击您想要分享的基站,在弹出框里点击分享基站图标,点击您的朋友头像即可分享.
+朋友打开分享消息后会直接定位到您分享的基站位置.
+```
+
+
+
+![基站给朋友](https://tva1.sinaimg.cn/large/006y8mN6ly1g92aphx8blg306b0bn1l6.gif)
+
+
+
+
+### 电表拓扑图
+
+![电表拓扑图](https://tva1.sinaimg.cn/large/006tNbRwly1g9jh951vqkj30d40odqg7.jpg)
