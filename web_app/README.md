@@ -8,7 +8,7 @@
 
 ### 登陆后台
 
-[登陆地址 : https://api.xinyilin10.com/](https://api.xinyilin10.com/)
+[使用电脑打开链接  : https://api.xinyilin10.com/](https://api.xinyilin10.com/)
 
 
 ![登陆后台](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhomms7xg30bn073x6w.gif)
