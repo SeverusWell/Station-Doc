@@ -1,98 +1,150 @@
 # 基站后台管理
 
-您可通过如下方式便捷打开小程序:
-
-
-
-### 初次使用 
-
-#### 微信扫描二维码
-
->  在微信中可长按图片扫描二维码
-
-![gh_69cc2f6da761_258](https://tva1.sinaimg.cn/large/006y8mN6ly1g927uyvw95j3076076gmk.jpg)
-
-#### 微信搜索 `智能基站管理系统`
-
-![image-20191118154301790](https://tva1.sinaimg.cn/large/006y8mN6ly1g928kbokovj308n0f2jve.jpg)
-
-#### 微信公众号入口
-
 ```
-关注公众号 `基站运维交流平台`,点击 `小程序`入口.
+您可在电脑端浏览器上通过微信扫码登陆基站管理系统后台.
 ```
 
 
 
-![image-20191118154442796](https://tva1.sinaimg.cn/large/006y8mN6ly1g928m3c3tij308q0f8dge.jpg)
+### 登陆后台
 
-#### 微信分享(推荐)
-
-```
-您可通过点击朋友分享的小程序消息打开,分享方式下面会进行介绍.
-```
+[登陆地址 : https://api.xinyilin10.com/](https://api.xinyilin10.com/)
 
 
-
-![image-20191118155038069](https://tva1.sinaimg.cn/large/006y8mN6ly1g928s9chtej308p0f7gou.jpg)
+![登陆后台](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhomms7xg30bn073x6w.gif)
 
 
 
-### 非首次使用 `快捷`
+### 运营商平均功率图
 
-#### 添加到我的小程序 `推荐`
-
-```
-微信聊天界面下拉打开小程序页面,长按 `基站` 按钮拖动到我的小程序即可添加到我的小程序.
-```
-
-![QQ20191118-162342](https://tva1.sinaimg.cn/large/006y8mN6ly1g929s0pl4hg306b0bnu12.gif)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhtrfpumj31400p0dl1.jpg)
 
 
 
-#### 添加到系统桌面 (仅限安卓系统)
+### 现网基站图层
 
-```
-点击小程序右上方三个圆点样式的菜单按钮,选择添加到桌面即可.
-```
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhuv1scbj31400p0u0x.jpg)
 
 
 
-![image-20191118164612237](https://tva1.sinaimg.cn/large/006y8mN6ly1g92ae20611j30bs0k977g.jpg)
+### 基站列表
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhx705itj31400p0qd3.jpg)
 
 
 
-#### 任务栏 最近使用
+### 基站基础信息
 
-```
-微信聊天界面下拉打开小程序页面,点击基站进入(如最近小程序太多可以点击右侧三个圆点更多按钮在历史小程序列表中打开)
-```
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhxuu9kdj31400p07cv.jpg)
 
 
 
-![QQ20191118-161426](https://tva1.sinaimg.cn/large/006y8mN6ly1g929hh2g2kg306b0bn7wj.gif)
+### 查看查表记录
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhz13tjrj31400p07d2.jpg)
 
 
 
-### 分享小程序给朋友
+### 显示电表拓扑图
 
-#### 直接分享小程序
-
-```
-点击小程序右上方三个圆点样式的菜单按钮,选择发送给朋友,点击要朋友的头像发送即可.
-```
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jhzfxvydj31400p0dte.jpg)
 
 
 
-![11](https://tva1.sinaimg.cn/large/006y8mN6ly1g92alkl9adg306b0bn7wp.gif)
+### 添加基站
 
-#### 分享基站给朋友
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji01iwcxj31400p07gp.jpg)
+
+
+
+### 添加电表
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji0annqrj31400p0gx5.jpg)
+
+
+
+### 片区管理
 
 ```
-点击您想要分享的基站,在弹出框里点击分享基站图标,点击您的朋友头像即可分享.
-朋友打开分享消息后会直接定位到您分享的基站位置.
+片区管理中可管理片区信息和设置片区管理员.
 ```
 
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji0uslb5j31400p0q68.jpg)
 
 
-![22](https://tva1.sinaimg.cn/large/006y8mN6ly1g92aphx8blg306b0bn1l6.gif)
+
+### 电表管理
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji1ghwukj31400p07ay.jpg)
+
+
+
+### 电表用电数据
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji2jzkezj31400p0gpn.jpg)
+
+
+
+### 电表功率数据
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji30ov4zj31400p0aec.jpg)
+
+
+
+### 基站导入
+
+```
+可通过模板的形式批量导入基站,导入后会自动添加到选定的图层中.
+```
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji3vn0trj31400p0dix.jpg)
+
+
+
+### 基站预警
+
+```
+基站预警信息可微信通知片区管理员(需要关注公众号 '智能基站管理系统'),也可在后台查看.
+```
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji477dx0j31400p0jzu.jpg)
+
+
+
+### 基站告警
+
+```
+基站告警信息可微信通知片区管理员(需要关注公众号 '智能基站管理系统'),也可在后台查看.
+```
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji4f2ft3j31400p0n43.jpg)
+
+
+
+### 添加查表任务 / 添加巡检任务 / 添加抢修任务
+
+```
+可按照图层/单个基站添加查表、巡检、抢修任务.
+```
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji5d1ecij31400p0jwf.jpg)
+
+
+
+### 信息修正审核
+
+```
+现场人员提交的信息修正操作可以在后台进行审核生效.
+```
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji696yk2j31400p0n8a.jpg)
+
+
+
+### 员工审核
+
+```
+公司管理人员可在此审核员工加入公司的申请.
+```
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ji6n7cqoj31400p0q65.jpg)
